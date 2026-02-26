@@ -1,5 +1,3 @@
-import pandas as pd
-import numpy as py
 import random
 
 # decision rpg game for first project
